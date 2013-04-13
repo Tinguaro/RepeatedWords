@@ -21,8 +21,8 @@ th, td        { vertical-align: top; text-align: right; }
 tr:nth-child(odd)    { background-color:#eee; }
 tr:nth-child(even)    { background-color:#00FF66; }
 input        { text-align: right;  border: none;       }     /* Align input to the right  */
-textarea     { border: outset; border-color: white;       }                        
-table        { border: inset; border-color: white; }
+textarea     { border: outset; border-color: black;       }                        
+table        { border: inset; border-color: black; }
 .hidden      { display: none; }
 .unhidden    { display: inline; }
 table.center { margin-left:auto; margin-right:auto; }
@@ -33,4 +33,5 @@ span.repeated { background-color: red }
 
 body
 {
- background-color:#b0c4de;  /* blue */
+ background-color:#F4FA58;  /* blue */
+}
